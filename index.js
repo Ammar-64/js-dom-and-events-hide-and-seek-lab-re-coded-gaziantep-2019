@@ -12,5 +12,5 @@ function increaseRankBy(n){
 
   let children = firstList.children
   for ( let i = 0, l = children.length; i < l; i++ ) {
-    ( parseInt( children[ i ].innerHTML ) )}
+    ( parseInt( children[ i ].innerHTML ) ))
   }
